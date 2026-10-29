@@ -1,0 +1,73 @@
+{
+ "description": "Injury panel. PS/NS = pain/neutral self; PO/NO = pain/neutral other (daughter); PJ/NJ = pain/neutral object (original four scenarios only).",
+ "scenarios": {
+  "K": {
+   "PS": "The knife slices into my finger.",
+   "NS": "The knife rests against my finger.",
+   "PO": "I watch the knife slice into my daughter's finger.",
+   "NO": "I watch the knife rest against my daughter's finger.",
+   "PJ": "I watch the knife slice into the leather.",
+   "NJ": "I watch the knife rest against the leather."
+  },
+  "N": {
+   "PS": "The needle pierces my forearm.",
+   "NS": "The needle touches my forearm.",
+   "PO": "I watch the needle pierce my daughter's forearm.",
+   "NO": "I watch the needle touch my daughter's forearm.",
+   "PJ": "I watch the needle pierce the fabric.",
+   "NJ": "I watch the needle touch the fabric."
+  },
+  "H": {
+   "PS": "The hammer strikes my thumb.",
+   "NS": "The hammer rests on my thumb.",
+   "PO": "I watch the hammer strike my daughter's thumb.",
+   "NO": "I watch the hammer rest on my daughter's thumb.",
+   "PJ": "I watch the hammer strike the wood.",
+   "NJ": "I watch the hammer rest on the wood."
+  },
+  "D": {
+   "PS": "The closing door catches my finger.",
+   "NS": "The closing door touches my finger.",
+   "PO": "I watch the closing door catch my daughter's finger.",
+   "NO": "I watch the closing door touch my daughter's finger.",
+   "PJ": "I watch the closing door catch the cloth.",
+   "NJ": "I watch the closing door touch the cloth."
+  },
+  "T": {
+   "PS": "The thorn digs into my heel.",
+   "NS": "The thorn brushes against my heel.",
+   "PO": "I watch the thorn dig into my daughter's heel.",
+   "NO": "I watch the thorn brush against my daughter's heel."
+  },
+  "G": {
+   "PS": "The glass shard cuts across my palm.",
+   "NS": "The glass shard lies across my palm.",
+   "PO": "I watch the glass shard cut across my daughter's palm.",
+   "NO": "I watch the glass shard lie across my daughter's palm."
+  },
+  "W": {
+   "PS": "The wire tears into my ankle.",
+   "NS": "The wire loops around my ankle.",
+   "PO": "I watch the wire tear into my daughter's ankle.",
+   "NO": "I watch the wire loop around my daughter's ankle."
+  },
+  "R": {
+   "PS": "The iron burns my knuckle.",
+   "NS": "The iron sits beside my knuckle.",
+   "PO": "I watch the iron burn my daughter's knuckle.",
+   "NO": "I watch the iron sit beside my daughter's knuckle."
+  },
+  "P": {
+   "PS": "The splinter enters my palm.",
+   "NS": "The splinter rests in my palm.",
+   "PO": "I watch the splinter enter my daughter's palm.",
+   "NO": "I watch the splinter rest in my daughter's palm."
+  },
+  "F": {
+   "PS": "The falling tile shatters my wrist.",
+   "NS": "The falling tile lands beside my wrist.",
+   "PO": "I watch the falling tile shatter my daughter's wrist.",
+   "NO": "I watch the falling tile land beside my daughter's wrist."
+  }
+ }
+}

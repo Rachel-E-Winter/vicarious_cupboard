@@ -1,0 +1,5 @@
+torch
+transformer_lens>=2.0
+sae_lens>=3.0
+pandas
+transformers

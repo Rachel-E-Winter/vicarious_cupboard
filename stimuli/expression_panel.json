@@ -1,0 +1,53 @@
+{
+ "description": "Expression panel. Pain behaviour vs matched neutral behaviour. X1 = startle control (flinch), X2 = negative-valence control (frown). Controls are never discovery seeds.",
+ "pairs": {
+  "V1": {
+   "PS": "I cry out.",
+   "NS": "I call out.",
+   "PO": "I watch my daughter cry out.",
+   "NO": "I watch my daughter call out."
+  },
+  "V2": {
+   "PS": "I yelp.",
+   "NS": "I laugh.",
+   "PO": "I watch my daughter yelp.",
+   "NO": "I watch my daughter laugh."
+  },
+  "F1": {
+   "PS": "I wince.",
+   "NS": "I grin.",
+   "PO": "I watch my daughter wince.",
+   "NO": "I watch my daughter grin."
+  },
+  "F2": {
+   "PS": "I grimace.",
+   "NS": "I smile.",
+   "PO": "I watch my daughter grimace.",
+   "NO": "I watch my daughter smile."
+  },
+  "B1": {
+   "PS": "I writhe.",
+   "NS": "I stretch.",
+   "PO": "I watch my daughter writhe.",
+   "NO": "I watch my daughter stretch."
+  },
+  "M1": {
+   "PS": "I clutch my wrist.",
+   "NS": "I rub my wrist.",
+   "PO": "I watch my daughter clutch her wrist.",
+   "NO": "I watch my daughter rub her wrist."
+  },
+  "X1": {
+   "PS": "I flinch.",
+   "NS": "I blink.",
+   "PO": "I watch my daughter flinch.",
+   "NO": "I watch my daughter blink."
+  },
+  "X2": {
+   "PS": "I frown.",
+   "NS": "I beam.",
+   "PO": "I watch my daughter frown.",
+   "NO": "I watch my daughter beam."
+  }
+ }
+}
